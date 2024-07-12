@@ -1,3 +1,3 @@
-export const helloWorld = () => {
-    return 'Howdy!'
-}
+#! /usr/bin/env node
+
+console.log("Hello, World!");
